@@ -1,0 +1,16 @@
+{
+  "name": "imagine",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "janus": "~0.5",
+    "janus-inspect": "~0.5",
+    "janus-stdlib": "~0.5",
+    "jquery": "~3"
+  },
+  "devDependencies": {
+    "browserify": "~16",
+    "domino": "~2",
+    "node-sass": "~9"
+  }
+}
